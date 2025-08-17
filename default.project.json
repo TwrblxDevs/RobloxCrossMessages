@@ -1,0 +1,13 @@
+{
+  "name": "RobloxCrossMessages",
+  "tree": {
+    "$className": "DataModel",
+
+
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      }
+    }
+  }
+}
